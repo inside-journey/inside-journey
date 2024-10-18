@@ -14,7 +14,7 @@ I want to collaborate on projects that **improve health** and create **balance**
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/ayoze-k-680428266)  
 - [Medium](https://www.medium.com/@mylilwind)  
-- [Codecademy](https://www.codecademy.com/kuraserscript_lt-mlwtj)
+- [Codecademy](https://www.codecademy.com/profiles/kuraserscript_lt-mlwtj)
 
 ### 😄 Pronouns:
 He/Him
