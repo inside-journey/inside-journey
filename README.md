@@ -6,10 +6,10 @@
 - Data and AI
 
 ### 🌱 I’m currently learning:
-I am on a journey to become a **Full-Stack Engineer**, but my learning doesn't stop there! I am also looking forward to learning **Python** and **Data Science**. In the future, I plan to pursue certifications in **SOC Analyst**, **Data Engineering**, and **AI Engineering**.
+I am on a journey to become a **Full-Stack Engineer**, but my learning doesn't stop there! I am also looking forward to learning **Python** and **Data Science**. In the near future, I plan to enhance my skills and get certified as a **Pen Tester**, followed by **Data Science**, and **AI Engineering**.
 
 ### 💞️ I’m looking to collaborate on:
-I want to collaborate on projects that **improve health** and create **balance** in our busy daily lives. Any project that makes life better through **technology** is something I would love to be a part of!
+I want to collaborate on projects that **improve health** and bring one of my favourite topics, **balance**, to our busy daily lives. Any project that makes life better through **technology** is something I would love to be a part of! 
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/ayoze-k-680428266)  
